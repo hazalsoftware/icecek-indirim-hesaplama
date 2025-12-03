@@ -19,4 +19,4 @@ Bu program:
 3. Konsol ekranına fiyatı girin.
 
 ---
-👩‍💻 **Geliştirici:** Hazak Çorbacı
+👩‍💻 **Geliştirici:** Hazal Çorbacı
