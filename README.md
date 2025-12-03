@@ -1,6 +1,6 @@
-# İçecek İndirim Hesaplama Aracı (C Dili)
+# İndirim Hesaplama Aracı (C Dili)
 
-Bu benim ilk C programlama projemdir. Kullanıcıdan alınan içecek fiyatı üzerinden belirli bir indirim oranı uygulayarak yeni fiyatı hesaplar.
+Bu benim ilk C programlama projemdir. Kullanıcıdan alınan yiyecek/içecek fiyatı üzerinden belirli bir indirim oranı uygulayarak yeni fiyatı hesaplar.
 
 ## 🚀 Proje Hakkında
 Bu program:
